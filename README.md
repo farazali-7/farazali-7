@@ -18,7 +18,7 @@ I tend to own the full path: data model, API, interface, deployment. I care less
 
 ### Stack
 
-**Frontend** &nbsp;Next.js (App Router) · React · TypeScript · Tailwind CSS · Redux Toolkit
+**Frontend** &nbsp;Next.js (App Router) · React · TypeScript · Tailwind CSS · Shadcn UI · Redux Toolkit
 **Backend** &nbsp;Node.js · Express · REST APIs · JWT auth · role-based access control
 **Data** &nbsp;PostgreSQL · MongoDB · Supabase (incl. Row Level Security)
 **Tooling** &nbsp;Git · Vercel · Postman
