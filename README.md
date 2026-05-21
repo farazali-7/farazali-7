@@ -36,7 +36,7 @@ REST API for a donation platform connecting restaurants with communities. Role-b
 ### Links
 
 Portfolio &nbsp;· &nbsp;[farazali.pro](https://farazali.pro)
-LinkedIn &nbsp;· &nbsp;[linkedin.com/in/faraz-ali](https://linkedin.com/in/faraz-ali)
+LinkedIn &nbsp;· &nbsp;[linkedin.com/in/faraz-ali](https://www.linkedin.com/in/faraz-ali-63b67b39b/)
 Email &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;farazbhatti170@gmail.com
 
 Based in Pakistan (GMT+5). Open to remote roles and freelance work.
